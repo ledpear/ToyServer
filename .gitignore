@@ -70,6 +70,7 @@ Saved/*
 Intermediate/*
 Plugins/*/Intermediate/*
 Binaries/*
+Plugins/*/Binaries/*
 Saved/*
 
 # Cache files for the editor to use
